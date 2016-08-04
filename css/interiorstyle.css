@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+.aboutremodel {
+  color: limegreen;
+}
+.column {
+  width:30%;
+  float:left;
+}
+img{
+  width: 30%;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: right;
+}
